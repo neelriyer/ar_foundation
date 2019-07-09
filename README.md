@@ -4,7 +4,6 @@
 - Created using AR Foundation, Unity, ARKit Scanner for IOS
 
 # Examples
-===========
 
 # Prototype 2
 - Recognises a rice cooker
