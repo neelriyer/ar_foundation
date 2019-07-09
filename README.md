@@ -1,14 +1,17 @@
-# AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
+# Brief
 
 Compatible with Unity 2019.1 and later.
 
-## Instructions for installing AR Foundation
+- Provides instructions to isolate a particular machine from the power supply
+- Computer vision detects machine and instructions are placed in Augmented Reality
+- Created using AR Foundation, Unity, ARKit Scanner for IOS
 
-1. Download the latest version of Unity 2019.1 or later.
+# Examples
 
-2. Open Unity, and load the project at the root of the *arfoundation-samples* repository.
+# Prototype 2
+- Recognises a rice cooker
+- Provides video instructions to isolate a the machine as well as written instructions
+- Works for IOS 12.0+
 
-3. Open your choice of sample scene.
+![alt text](https://raw.githubusercontent.com/spiyer99/ar_foundation/master/demo.gif)
 
-4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) for usage instructions and more information.
