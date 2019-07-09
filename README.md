@@ -11,5 +11,6 @@
 - Provides video instructions to isolate a the machine as well as written instructions
 - Works for IOS 12.0+
 
-![alt text](https://raw.githubusercontent.com/spiyer99/ar_foundation/master/demo.gif)
+
+![ar_foundation](demo.gif)
 
