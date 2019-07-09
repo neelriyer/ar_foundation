@@ -10,4 +10,6 @@
 - Provides video instructions to isolate a the machine as well as written instructions
 - Works for IOS 12.0+
 
+# Demo
+(Takes some time to load)
 ![ar_foundation](demo.gif)
