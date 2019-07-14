@@ -11,5 +11,5 @@
 - Works for IOS 12.0+
 
 # Demo
-(Takes some time to load)
+(loading...)
 ![ar_foundation](demo.gif)
