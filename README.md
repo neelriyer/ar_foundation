@@ -13,3 +13,10 @@
 (loading...)
 ![ar_foundation](demo.gif)
 
+# Prototype 1
+- CNN Recognises an f1 car
+- Augmented reality overlayed in real-time
+
+(loading...)
+![ar_foundation](f1_demo.gif)
+
