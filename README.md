@@ -1,4 +1,5 @@
 # Brief
+- Winner of UNSW Maker Games 2019: https://newsroom.unsw.edu.au/news/science-tech/augmented-reality-system-designed-save-lives-industrial-plants-wins-maker-games
 - Provides instructions to isolate a particular machine from the power supply
 - Computer vision detects machine and instructions are placed in Augmented Reality
 - Created using AR Foundation, Unity, ARKit Scanner for IOS
